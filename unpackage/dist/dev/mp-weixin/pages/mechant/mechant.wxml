@@ -1,2 +1,1 @@
-<import src="./mechant.vue.wxml" />
-    <template is="7be8e37e" data="{{ ...$root['0'], $root }}"/>
+<view>商家</view>
